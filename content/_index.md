@@ -1,23 +1,19 @@
-A minimal, $\LaTeX$-style hugo theme for personal blogging.
-Visit the [wiki](https://github.com/michaelneuper/hugo-texify3/wiki) for information on how to install and configure.
+**Hey there! i’m Felle 👋**
+
+welcome to my little corner of the internet—part portfolio, part brain dump, all here. you’ll find my projects, ramblings, and whatever else i’m excited about.
 
 ---
 
-## Features
-
-- Any comment engine (giscus, remark42, hyvor, etc.)
-- [Mermaid](https://mermaid.js.org) support
-- DuckDuckGo search
-- Buymeacoffee widget
-- Auto numbered subtitles
-- [Disqus](https://disqus.com/) & Google Analytics
-- Render math equations with [KaTeX](https://katex.org/)
-- [PostCSS](https://postcss.org/) to make writing CSS easier
-- Dark mode toggle
-- Citations
+### **what’s inside?**
+- **stuff i’ve made:** websites, experiments, and things that go *beep boop*
+- **thoughts & notes:** half-baked ideas, tutorials, and the occasional deep dive
+- **nerdy loves:** code, design, and all things web
 
 ---
 
-## Acknowledgement
+### **why this site?**
+because the internet should be fun, weird, and full of personality. also, i wanted a place to dump my projects without bothering algorithms.
 
-This is a fork of the [TeXify2](https://github.com/weastur/hugo-texify2) theme.
+---
+
+**wanna say hi?** [@me](mailto:realfelle@proton.me) / [github](https://github.com/felle-gram)
