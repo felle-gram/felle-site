@@ -16,4 +16,4 @@ because the internet should be fun, weird, and full of personality. also, i want
 
 ---
 
-**wanna say hi?** [@me](mailto:realfelle@proton.me) / [github](https://github.com/felle-gram)
+**wanna say hi?** [@me](mailto:realfelle@proton.me) / [github](https://github.com/felle-dev)
