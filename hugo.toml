@@ -41,10 +41,10 @@ numberedSubtitles = true
   [params.commentEngine]
   code = """
   <script src="https://giscus.app/client.js"
-        data-repo="felle/website"
-        data-repo-id="R_kgDOIjPNaQ"
+  	data-repo="felle-dev/felle-site"
+        data-repo-id="R_kgDOQlVv_Q"
         data-category="General"
-        data-category-id="DIC_kwDOIjPNac4CaklA"
+        data-category-id="DIC_kwDOQlVv_c4CzqON"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
